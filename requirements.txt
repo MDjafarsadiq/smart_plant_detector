@@ -1,0 +1,10 @@
+streamlit
+numpy
+pillow
+opencv-python-headless
+tensorflow
+python-dotenv
+pandas
+requests
+matplotlib
+reportlab
